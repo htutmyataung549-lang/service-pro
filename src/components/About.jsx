@@ -1,6 +1,6 @@
 import React from "react";
 import { Circle, User, Target, ArrowRight } from "lucide-react";
-import about from "../assets/about.png";
+import about from "../assets/about-img.png";
 const About = () => {
   return (
     <section
